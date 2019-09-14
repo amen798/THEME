@@ -1,0 +1,90 @@
+<resources>
+
+    <!-- // theme 1 -->
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/backGColor1</item>
+        <item name="android:textColor">@color/textColor1</item>
+        <item name="actionBarStyle">@style/MyActionBar1</item>
+    </style>
+
+    <style name="MyActionBar1" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle1</item>
+    </style>
+
+    <style name="MyTitleTextStyle1" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textColorActionBar1</item>
+    </style>
+    <!-- // theme 2 -->
+    <style name="AppTheme2"  parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/backGColor2</item>
+        <item name="android:textColor">@color/textColor2</item>
+        <item name="actionBarStyle">@style/MyActionBar2</item>
+    </style>
+
+    <style name="MyActionBar2" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle2</item>
+    </style>
+
+    <style name="MyTitleTextStyle2" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textColorActionBar2</item>
+    </style>
+
+    <!-- // theme 3 -->
+    <style name="AppTheme3"  parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/backGColor3</item>
+        <item name="android:textColor">@color/textColor3</item>
+        <item name="actionBarStyle">@style/MyActionBar3</item>
+    </style>
+
+    <style name="MyActionBar3" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle3</item>
+    </style>
+
+    <style name="MyTitleTextStyle3" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textColorActionBar3</item>
+    </style>
+
+    <!-- // theme 4 -->
+    <style name="AppTheme4" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:background">@color/backGColor4</item>
+        <item name="android:textColor">@color/textColor4</item>
+        <item name="actionBarStyle">@style/MyActionBar4</item>
+    </style>
+
+    <style name="MyActionBar4" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle4</item>
+    </style>
+
+    <style name="MyTitleTextStyle4" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textColorActionBar4</item>
+    </style>
+
+    <!-- // theme 5 -->
+    <style name="AppTheme5"  parent="Theme.AppCompat.Light.DialogWhenLarge">
+        <item name="android:background">@color/backGColor5</item>
+        <item name="android:textColor">@color/textColor5</item>
+        <item name="actionBarStyle">@style/MyActionBar5</item>
+    </style>
+
+    <style name="MyActionBar5" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle5</item>
+    </style>
+
+    <style name="MyTitleTextStyle5" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textColorActionBar5</item>
+    </style>
+    <!-- // theme 6 -->
+    <style name="AppTheme6"  parent="Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="android:background">@color/backGColor6</item>
+        <item name="android:textColor">@color/textColor6</item>
+        <item name="actionBarStyle">@style/MyActionBar6</item>
+    </style>
+
+    <style name="MyActionBar6" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle6</item>
+    </style>
+
+    <style name="MyTitleTextStyle6" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textColorActionBar6</item>
+    </style>
+</resources>

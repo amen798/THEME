@@ -1,0 +1,25 @@
+<resources>
+    <color name="textColor1">#000000</color>
+    <color name="backGColor1">#0067FF</color>
+    <color name="textColorActionBar1">#000000</color>
+
+    <color name="textColor2">#000000</color>
+    <color name="backGColor2">#FF0000</color>
+    <color name="textColorActionBar2">#000000</color>
+
+    <color name="textColor3">#000000</color>
+    <color name="backGColor3">#DBC300</color>
+    <color name="textColorActionBar3">#000000</color>
+
+    <color name="textColor4">#000000</color>
+    <color name="backGColor4">#6400B3</color>
+    <color name="textColorActionBar4">#000000</color>
+
+    <color name="textColor5">#000000</color>
+    <color name="backGColor5">#00B36B</color>
+    <color name="textColorActionBar5">#000000</color>
+
+    <color name="textColor6">#000000</color>
+    <color name="backGColor6">#FFFFFF</color>
+    <color name="textColorActionBar6">#000000</color>
+</resources>
